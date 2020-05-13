@@ -28,9 +28,11 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "@types/on-finished": "^2.3.1",
     "@types/validator": "^13.0.0",
     "express": "^4.17.1",
     "jimp": "^0.6.4",
+    "on-finished": "^2.3.0",
     "validator": "^13.0.0"
   }
 }
