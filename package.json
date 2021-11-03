@@ -33,6 +33,6 @@
     "express": "^4.17.1",
     "jimp": "^0.10.3",
     "on-finished": "^2.3.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
